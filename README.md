@@ -1,7 +1,7 @@
 # Task Manager API
 
 ## Description
-A simple REST API built with Node.js and Express.
+A simple REST API built with Node.js, Express, Sequelize, and SQLite.
 
 ## Features
 - Create Task
